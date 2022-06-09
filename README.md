@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sakinahali
-- 👀 I’m interested in Data Science, ML/AI
 - 🌱 I’m currently learning Data Science/ML
 - 💞️ I’m looking to collaborate on projects in Data Science/ML
 - 📫 How to reach me Email:Sakinahemoshiokeali@gmail.com
