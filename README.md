@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sakinahali
 - 🌱 I’m currently learning Data Science/machine learning
-- 🌱 I'm currently open to collaborations in data science projects
+- 🌱 I'm open to collaborations on data science projects
 - 📫 How to reach me Email:Sakinahemoshiokeali@gmail.com.
 - 📫 Linkedin profile: https://www.linkedin.com/sakinahemoshiokeali
 
